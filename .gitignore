@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environment
+.venv/
+__pycache__/
+.env
+
+# Downloaded data and model checkpoints
+data/
+checkpoints/
+*.pt
+*.pth
+
+# Notebook temporary files
+.ipynb_checkpoints/
