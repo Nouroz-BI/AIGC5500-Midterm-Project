@@ -1,0 +1,3 @@
+variant,parameters,ms_per_sample_batch1_mean,ms_per_sample_batch1_median,ms_per_sample_batch64,peak_memory_mb,memory_measure,samples_timed,hardware
+Transformer (full),723586,1.4883785333336164,1.312812000151098,0.14367458666659635,181.085184,CUDA peak allocated (includes weights),300,GPU: Tesla T4
+Ablation: no positions,707202,3.098796709993318,1.9126409998762028,0.13597462333336807,181.85728,CUDA peak allocated (includes weights),300,GPU: Tesla T4
