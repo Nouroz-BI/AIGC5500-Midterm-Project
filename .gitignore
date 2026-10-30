@@ -232,3 +232,11 @@ checkpoints/
 
 # Notebook temporary files
 .ipynb_checkpoints/
+
+# Downloaded and prepared datasets
+data/
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
