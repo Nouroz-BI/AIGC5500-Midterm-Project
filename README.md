@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Group** | MVPs |
-| **Members** | Daniel Alejandro Castillo Martin (N10019284)<br>Eric Ly<br>Bryan Jacome<br>Nouroz Ali(N10037086) <br>Abhi Patel |
+| **Members** | Daniel Alejandro Castillo Martin (N10019284)<br>Eric Ly<br>Bryan Jacome<br>Nouroz Ali (N10037086) <br>Abhi Patel |
 | **Course** | Advanced Deep Learning (AIGC-5500-0NA) |
 | **Professor** | Hossein Pourmodheji |
 
