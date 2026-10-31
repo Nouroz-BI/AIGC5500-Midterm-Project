@@ -1,0 +1,3 @@
+variant,seed,parameters,parameter_memory_mib,batch_size,padded_sequence_length,mean_real_length,mean_batch_ms,std_batch_ms,amortized_ms_per_email,emails_per_second,extra_peak_cuda_memory_mib,warmup,repeats,device,hardware,torch_version,cpu_threads
+LSTM,42,739586,2.8212966918945312,64,256,176.921875,6.927498006843962,0.23127890384532004,0.1082421563569369,9238.54470066563,43.1533203125,10,50,cuda,NVIDIA GeForce RTX 3060 Laptop GPU,2.9.1+cu128,14
+LSTM forget bias +1,42,739586,2.8212966918945312,64,256,176.921875,7.691439999616705,1.3300872805313053,0.12017874999401101,8320.938602288958,43.1533203125,10,50,cuda,NVIDIA GeForce RTX 3060 Laptop GPU,2.9.1+cu128,14
