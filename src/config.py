@@ -17,5 +17,10 @@ MAX_LENGTH = 256
 # Batching
 BATCH_SIZE = 64
 
-# Validation fraction
-VALIDATION_FRACTION = 0.2
+# Proposed training protocol
+EPOCHS = 5
+LEARNING_RATES = (1e-3, 3e-4)
+TUNING_SEED = 42
+WEIGHT_DECAY = 0.01
+MAX_GRAD_NORM = 1.0
+SELECTION_METRIC = 'macro_f1'
